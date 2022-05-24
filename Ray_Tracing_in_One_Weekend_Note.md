@@ -81,7 +81,7 @@ build\Release\inOneWeekend.exe > image.ppm
 
 
 
-![image_1](..\RayTracingInOneWeekend\.assets\image_1.png)
+![image_1](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_1.png)
 
 
 
@@ -413,7 +413,7 @@ int main() {
 
 生成图片的效果：
 
-![image_2](..\RayTracingInOneWeekend\.assets\image_2.png)
+![image_2](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_2.png)
 
 
 
@@ -479,7 +479,7 @@ color ray_color(const ray& r) {
 
 
 
-![image_3](C:\Users\liang\Desktop\Note\Computer Graphics\RayTracingInOneWeekend\.assets\image_3.png)
+![image_3](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_3.png)
 
 
 
@@ -522,7 +522,7 @@ color ray_color(const ray& r) {
 // [main.cpp] Rendering surface normals on a sphere
 ```
 
-![image_4](C:\Users\liang\Desktop\Note\Computer Graphics\RayTracingInOneWeekend\.assets\image_4.png)
+![image_4](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_4.png)
 
 生成的法线向量图就不是单一颜色的图了而是有了颜色的渐变，也体现了球体在空间中的感觉
 
@@ -881,7 +881,7 @@ int main() {
 
 经过优化之后我们的程序可以输出以下的图像了
 
-![image_5](..\RayTracingInOneWeekend\.assets\image_5.png)
+![image_5](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_5.png)
 
 
 
@@ -1064,7 +1064,7 @@ int main() {
 
 但是随之带来的就是采样速度的变慢以及更多的消耗
 
-![image_6](..\RayTracingInOneWeekend\.assets\image_6.png)
+![image_6](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_6.png)
 
 
 
@@ -1170,7 +1170,7 @@ color ray_color(const ray& r, const hittable& world, int depth) {
 }
 ```
 
-![image_7](..\RayTracingInOneWeekend\.assets\image_7.png)
+![image_7](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_7.png)
 
 
 
@@ -1242,7 +1242,7 @@ vec3 random_unit_vector() {
 
 
 
-![image_8](..\RayTracingInOneWeekend\.assets\image_8.png)
+![image_8](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_8.png)
 
 
 
@@ -1594,7 +1594,7 @@ int main() {
 
 
 
-![image_9](..\RayTracingInOneWeekend\.assets\image_9.png)
+![image_9](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_9.png)
 
 
 
@@ -1630,7 +1630,7 @@ class metal : public material {
 
 
 
-![image_10](..\RayTracingInOneWeekend\.assets\image_10.png)
+![image_10](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_10.png)
 
 
 
@@ -1763,7 +1763,7 @@ class dielectric : public material {
 
 
 
-![image_11](..\RayTracingInOneWeekend\.assets\image_11.png)
+![image_11](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_11.png)
 
 
 
@@ -2022,7 +2022,7 @@ class camera {
 
 
 
-![image_12](..\RayTracingInOneWeekend\.assets\image_12.png)
+![image_12](https://github.com/harlan0103/Simple_Ray_Tracing/blob/main/.assets/image_12.png)
 
 
 
